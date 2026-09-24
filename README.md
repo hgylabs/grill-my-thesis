@@ -6,7 +6,7 @@
 
 | Skill | 阶段 | 一句话定位 |
 |---|---|---|
-| [mba-topic-grill](mba-topic-grill/SKILL.md) | 选题 | 逐步拷问（一次一问）把模糊想法逼成可辩护的选题卡：五维评估（研究价值/数据可得性/方法可行性/创新空间/个人匹配）+ 评分收敛 |
+| [mba-topic-grill](mba-topic-grill/SKILL.md) | 选题 | 逐步拷问（一次一问）把模糊想法逼成可辩护的选题卡：六维评估（研究价值/数据可得性/方法可行性/创新空间/个人匹配/理论适配）+ 评分收敛，内置理论配对速查库与热点文献存量门禁 |
 | [mba-proposal-coach](mba-proposal-coach/SKILL.md) | 开题 | 七大件逐节辅导成稿 + "评审十问"答辩模拟，弱点改完才交付 |
 | [mba-thesis-flow](mba-thesis-flow/SKILL.md) | 写作 | 七阶段流水线：大纲设计 → 文献综述 → 研究设计 → 数据分析 → 论文写作 → 科研绘图 → 参考文献，状态机推进、门禁验收 |
 
@@ -87,7 +87,7 @@ thesis/
 方法论融合自三个高口碑开源项目，致谢：
 
 - **[ARIS (Auto-claude-code-research-in-sleep)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)**：阶段化 workflow、每阶段明确产出、novelty check、评审闭环思想
-- **[bohyy/academic-ai-prompt](https://github.com/bohyy/academic-ai-prompt)**：选题"生成 → 扩展 → 多维评估 → Top 候选深析 → 论证"的收敛式方法（五维评估体系经 MBA 场景改造）
+- **[bohyy/academic-ai-prompt](https://github.com/bohyy/academic-ai-prompt)**：选题"生成 → 扩展 → 多维评估 → Top 候选深析 → 论证"的收敛式方法（评估体系经 MBA 场景改造，并扩充了理论适配维度）
 - **[Doryoku1223/lunwen-skill](https://github.com/Doryoku1223/lunwen-skill)**：硬门禁（Hard Gates）、执行状态机、资料优先级链、分章字数预算、"先回传设计再动笔"
 - **[grilling / grill-me skill](https://github.com/mattpocock/skills)（Matt Pocock）**：拷问式访谈——一次一问、每问附推荐答案、事实自查决策问人、达成共识前不产出
 
